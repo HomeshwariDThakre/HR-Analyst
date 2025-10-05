@@ -1,0 +1,1 @@
+This Power BI dashboard provides a comprehensive analysis of key HR metrics to help organizations monitor workforce trends, identify attrition patterns, and improve employee satisfaction. It visualizes data from an HR dataset containing employee demographics, job roles, education, and attrition details.
